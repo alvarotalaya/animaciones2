@@ -1,0 +1,11 @@
+#rojo{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    transition: width 3s ease;
+}
+
+#rojo:hover{
+    width: 600px;
+}
+

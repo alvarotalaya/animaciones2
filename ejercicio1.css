@@ -1,0 +1,12 @@
+#rojo{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    transition: background-color 2s ease-out, transform 2s ease-out;
+}
+
+#rojo:hover{
+    transform: rotate(45deg);
+    background-color: blue;
+}
+
